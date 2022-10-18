@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.deps.json
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.dll
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.pdb
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.AssemblyInfo.cs
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.dll
+C:\Users\USER\source\repos\Jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.pdb

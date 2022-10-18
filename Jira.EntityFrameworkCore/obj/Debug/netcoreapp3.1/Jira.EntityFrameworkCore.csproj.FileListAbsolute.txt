@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.deps.json
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.runtimeconfig.json
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.pdb
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.Domain.dll
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Jira.Domain.pdb
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.pdb
+C:\Users\USER\source\repos\Jira\Jira.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Jira.EntityFrameworkCore.genruntimeconfig.cache
