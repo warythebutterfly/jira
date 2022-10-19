@@ -29,7 +29,9 @@ namespace Jira.Web
         {
             services.AddControllersWithViews();
             services.AddDbContext<JiraDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("JiraDb")));
+            //dependency injection
             services.AddTransient<IIssueService, IssueService>();
+            services.AddTransient<IUserService, UserService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

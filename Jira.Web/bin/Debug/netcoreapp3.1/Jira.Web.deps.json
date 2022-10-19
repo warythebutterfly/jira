@@ -32,6 +32,7 @@
       "Jira.Web/1.0.0": {
         "dependencies": {
           "Jira.EntityFrameworkCore": "1.0.0",
+          "Jira.Helpers": "1.0.0",
           "Jira.Services": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.30",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.29",
@@ -1641,6 +1642,14 @@
         },
         "compile": {
           "Jira.EntityFrameworkCore.dll": {}
+        }
+      },
+      "Jira.Helpers/1.0.0": {
+        "runtime": {
+          "Jira.Helpers.dll": {}
+        },
+        "compile": {
+          "Jira.Helpers.dll": {}
         }
       },
       "Jira.Services/1.0.0": {
@@ -4060,6 +4069,11 @@
       "sha512": ""
     },
     "Jira.EntityFrameworkCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jira.Helpers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

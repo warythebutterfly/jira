@@ -4,5 +4,6 @@ namespace Jira.Helpers
 {
     public class Class1
     {
+
     }
 }

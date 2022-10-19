@@ -16,7 +16,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Jira.EntityFrameworkCore\Jira.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Jira.Helpers\Jira.Helpers.csproj" />
     <ProjectReference Include="..\Jira.Services\Jira.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\User\" />
   </ItemGroup>
 
 </Project>

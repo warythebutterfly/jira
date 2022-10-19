@@ -12,9 +12,7 @@ namespace Jira.Domain.Contract.UserViewModels
         public string JobTitle { get; set; }
         public string Department { get; set; }
         public string EmailAddress { get; set; }
+        public string Password { get; set; }
 
-        //password
-
-        
     }
 }

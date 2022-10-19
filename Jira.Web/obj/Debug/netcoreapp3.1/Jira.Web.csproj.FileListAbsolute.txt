@@ -387,3 +387,6 @@ C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.csproj
 C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.dll
 C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.pdb
 C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.genruntimeconfig.cache
+C:\Users\USER\source\repos\Jira\Jira.Web\bin\Debug\netcoreapp3.1\Jira.Helpers.dll
+C:\Users\USER\source\repos\Jira\Jira.Web\bin\Debug\netcoreapp3.1\Jira.Helpers.pdb
+C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\Index.cshtml.g.cs

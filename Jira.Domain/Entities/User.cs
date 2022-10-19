@@ -11,5 +11,6 @@ namespace Jira.Domain.Entities
         public string JobTitle { get; set; }
         public string Department { get; set; }
         public string EmailAddress { get; set; }
+        public string Password { get; set; }
     }
 }

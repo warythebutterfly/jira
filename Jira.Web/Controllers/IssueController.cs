@@ -12,6 +12,11 @@ namespace Jira.Web.Controllers
     public class IssueController : Controller
     {
         private readonly IIssueService _issueService;
+
+        public IssueController(IIssueService issueService)
+        {
+            issueService = _issueService;
+        }
         public IActionResult Index()
         {
             return View();
