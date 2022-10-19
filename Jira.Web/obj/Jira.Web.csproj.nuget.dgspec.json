@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Web\\Jira.Web.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Web\\Jira.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
         "projectName": "Jira.Domain.Contract",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,22 +59,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj",
         "projectName": "Jira.Domain",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -108,22 +118,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
         "projectName": "Jira.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -136,8 +151,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj"
               }
             }
           }
@@ -178,22 +193,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj",
         "projectName": "Jira.Helpers",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -232,22 +252,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj",
         "projectName": "Jira.Services",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -260,11 +285,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -293,22 +318,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Web\\Jira.Web.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Web\\Jira.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Web\\Jira.Web.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Web\\Jira.Web.csproj",
         "projectName": "Jira.Web",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Web\\Jira.Web.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Web\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Web\\Jira.Web.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -321,14 +351,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj"
               },
-              "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj"
+              "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj"
               }
             }
           }
@@ -376,7 +406,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     }
