@@ -390,3 +390,6 @@ C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.genrun
 C:\Users\USER\source\repos\Jira\Jira.Web\bin\Debug\netcoreapp3.1\Jira.Helpers.dll
 C:\Users\USER\source\repos\Jira\Jira.Web\bin\Debug\netcoreapp3.1\Jira.Helpers.pdb
 C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\Index.cshtml.g.cs
+C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\Dashboard.cshtml.g.cs
+C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\Detail.cshtml.g.cs
+C:\Users\USER\source\repos\Jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\Project.cshtml.g.cs

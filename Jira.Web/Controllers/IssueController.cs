@@ -22,6 +22,15 @@ namespace Jira.Web.Controllers
             return View();
         }
 
+        public IActionResult Dashboard()
+        {
+            return View();
+        }
+        public IActionResult Detail()
+        {
+            return View();
+        }
+
         [Route("createIssue")]
         [HttpPost]
         public async Task<DataResult> CreateIssue(CreateIssueViewModel model)
