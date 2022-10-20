@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D4cgDzxtQlvbHjv2grCgaioJnY7ukG3zRcAhLshRZE60VaxbMNrSCeOgUxgqNhQQEEOJtpVQzqBPRpIz7OWgCg==",
+  "dgSpecHash": "ROiOTLXGNcI1x2bT1jc6ORUsR0Eetee2QWdZlTBOAe3w1kywU42DCKzOTbfYyJz085oxcnSSTHD5ZTs0dBdwdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\jira-1\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

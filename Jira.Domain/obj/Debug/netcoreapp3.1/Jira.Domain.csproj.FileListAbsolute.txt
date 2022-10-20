@@ -8,3 +8,13 @@ C:\Users\USER\source\repos\Jira\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.
 C:\Users\USER\source\repos\Jira\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Jira\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.dll
 C:\Users\USER\source\repos\Jira\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.pdb
+C:\Users\user\source\repos\jira-1\Jira.Domain\bin\Debug\netcoreapp3.1\Jira.Domain.deps.json
+C:\Users\user\source\repos\jira-1\Jira.Domain\bin\Debug\netcoreapp3.1\Jira.Domain.dll
+C:\Users\user\source\repos\jira-1\Jira.Domain\bin\Debug\netcoreapp3.1\Jira.Domain.pdb
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.dll
+C:\Users\user\source\repos\jira-1\Jira.Domain\obj\Debug\netcoreapp3.1\Jira.Domain.pdb
