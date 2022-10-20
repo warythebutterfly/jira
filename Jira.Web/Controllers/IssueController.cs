@@ -30,14 +30,6 @@ namespace Jira.Web.Controllers
         {
             return View();
         }
-        public IActionResult Project()
-        {
-            return View();
-        }
-        public IActionResult Issue()
-        {
-            return View();
-        }
 
         [Route("createIssue")]
         [HttpPost]

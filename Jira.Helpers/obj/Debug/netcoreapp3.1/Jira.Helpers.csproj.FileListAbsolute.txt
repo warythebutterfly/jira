@@ -18,13 +18,3 @@ C:\Users\DELL\source\repos\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helper
 C:\Users\DELL\source\repos\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.dll
 C:\Users\DELL\source\repos\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.pdb
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\bin\Debug\netcoreapp3.1\Jira.Helpers.deps.json
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\bin\Debug\netcoreapp3.1\Jira.Helpers.dll
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\bin\Debug\netcoreapp3.1\Jira.Helpers.pdb
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.csproj.AssemblyReference.cache
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.AssemblyInfoInputs.cache
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.AssemblyInfo.cs
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.csproj.CoreCompileInputs.cache
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.dll
-C:\Users\AdMiN\source\repos2\jira\Jira.Helpers\obj\Debug\netcoreapp3.1\Jira.Helpers.pdb
