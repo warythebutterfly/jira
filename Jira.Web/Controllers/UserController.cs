@@ -24,11 +24,14 @@ namespace Jira.Web.Controllers
         {
             return View();
         }
-        public IActionResult Signup()
+        //public IActionResult Signup()
+        //{
+        //    return View();
+        //}
+        public IActionResult SignUp()
         {
             return View();
         }
-
         [Route("createUser")]
         [HttpPost]
         public async Task<DataResult> CreateUser(UserViewModel model)
