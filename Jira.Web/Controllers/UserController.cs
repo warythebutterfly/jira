@@ -20,6 +20,14 @@ namespace Jira.Web.Controllers
         {
             return View();
         }
+        public IActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult Signup()
+        {
+            return View();
+        }
 
         [Route("createUser")]
         [HttpPost]
