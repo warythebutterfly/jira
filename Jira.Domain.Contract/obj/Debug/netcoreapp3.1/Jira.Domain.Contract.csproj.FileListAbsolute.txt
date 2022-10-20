@@ -18,3 +18,13 @@ C:\Users\DELL\source\repos\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jir
 C:\Users\DELL\source\repos\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.dll
 C:\Users\DELL\source\repos\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.pdb
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.deps.json
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.dll
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\bin\Debug\netcoreapp3.1\Jira.Domain.Contract.pdb
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.csproj.AssemblyReference.cache
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.AssemblyInfoInputs.cache
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.AssemblyInfo.cs
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.dll
+C:\Users\AdMiN\source\repos2\jira\Jira.Domain.Contract\obj\Debug\netcoreapp3.1\Jira.Domain.Contract.pdb
