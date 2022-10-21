@@ -29,6 +29,13 @@ namespace Jira.Web.Controllers
         public IActionResult Detail()
         {
             return View();
+        }public IActionResult CreateIssue()
+        {
+            return View();
+        }
+        public IActionResult Project()
+        {
+            return View();
         }
 
         [Route("createIssue")]
