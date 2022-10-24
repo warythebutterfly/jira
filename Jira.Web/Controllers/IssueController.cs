@@ -25,7 +25,8 @@ namespace Jira.Web.Controllers
         public IActionResult Dashboard()
         {
             return View();
-        }public IActionResult Employee()
+        }
+        public IActionResult Employee()
         {
             return View();
         }
