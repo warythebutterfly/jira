@@ -785,7 +785,6 @@ C:\Users\DELL\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.csproj
 C:\Users\DELL\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.dll
 C:\Users\DELL\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.pdb
 C:\Users\DELL\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Jira.Web.genruntimeconfig.cache
-C:\Users\user\source\repos\jira\Jira.Web\bin\Debug\netcoreapp3.1\Jira.Web.StaticWebAssets.xml
 C:\Users\user\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\Issue\CreateIssue.cshtml.g.cs
 C:\Users\user\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
 C:\Users\user\source\repos\jira\Jira.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Signup.cshtml.g.cs

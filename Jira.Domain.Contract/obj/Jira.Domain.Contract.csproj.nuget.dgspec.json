@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
+    "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
         "projectName": "Jira.Domain.Contract",
-        "projectPath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain.Contract\\Jira.Domain.Contract.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain.Contract\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

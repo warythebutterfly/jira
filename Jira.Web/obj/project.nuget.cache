@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Szy27tDPUObj8rxgHL2pVN7zpugZfWop5RNxL2kEh1hnmoq7KC//u1NapYbk+8/Vy6u17YNZ+MamHeAmXflCg==",
+  "dgSpecHash": "ptG+89tGECp+bpUztHpcCUcYobRNnMtPiJoLkET7INuv8iIOYhF7Z8xVEFtk3m26mk79tPYLQ7nQSVonaJIveA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Web\\Jira.Web.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Web\\Jira.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.30\\microsoft.aspnetcore.mvc.razor.extensions.3.1.30.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.30\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.30.nupkg.sha512",

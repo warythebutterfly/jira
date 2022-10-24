@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jhW3gTP8iQO/w1UnYuIy2V31phqH2l3Rx/I6APC/vAIDcv9nPiJU3Ov20+Iib0bfCuhnnWJra6rX69P8oRbO9A==",
+  "dgSpecHash": "5/2Kt/bpNPxtbwT1ZDYr9HL3S23k9l8eZL0YLbBjyQzft//Y6Ivd0H4oQvulmxLr/sMHBYkTdIARG2osP/nbyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.EntityFrameworkCore\\Jira.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

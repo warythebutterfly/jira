@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQvPJDu3mebJE9AZxcVI/yO11ff9KwT0ZR6xFTQtBcMkZxER9xOauIpwrwWejoApC6KA17XK9FD8F4b1V1SOvw==",
+  "dgSpecHash": "rkCYuLuUYiaRdl4pqs5BvUztyNr5i8RwiYhEBKBJTDfpYK0+rf2CU2EXpu6S0AAiwK/1q+B/npatN8Ly3nGsPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Services\\Jira.Services.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Services\\Jira.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4RcXFQn+32aGuFi+LsWTlrr+EHCTYFx77Fmy6bw3nUtn75PwWkdiwxPiEi7mXmwcyq+KbtJSgtUUqWSZQodUw==",
+  "dgSpecHash": "ANTUw2KTwZtICtuiW6vJ2wMQlKuPp7XEy100jstGwhhbUf5cLLLWMQFoPSCnkeZ21oJ21ACDhNI3wTbq1n4bIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Helpers\\Jira.Helpers.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Helpers\\Jira.Helpers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj": {
+    "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj",
         "projectName": "Jira.Domain",
-        "projectPath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain\\Jira.Domain.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain\\Jira.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\jira\\Jira.Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Jira\\Jira.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
