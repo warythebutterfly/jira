@@ -23368,7 +23368,9 @@ body.rtl_mode table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td
     .sidebar.sidebar-mini .menu-list .m-link span {
         display: none
     }
-
+    .sidebar.sidebar-mini .brand-icon span {
+        display: none
+    }
     .sidebar.sidebar-mini .menu-list .m-link:hover span {
         display: block;
         background: var(--primary-color);
