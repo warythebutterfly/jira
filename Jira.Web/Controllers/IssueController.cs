@@ -15,7 +15,7 @@ namespace Jira.Web.Controllers
 
         public IssueController(IIssueService issueService)
         {
-            issueService = _issueService;
+            _issueService = issueService;
         }
         public IActionResult Index()
         {
@@ -94,7 +94,7 @@ namespace Jira.Web.Controllers
             return dataResult;
         }
 
-        [Route("getIssues")]
+    
         [HttpGet]
         public async Task<DataResult> GetIssue()
         {

@@ -21,7 +21,29 @@ namespace Jira.Services.Services
         }
         public async Task<UserViewModel> AuthenticateUser(LoginUserViewModel model)
         {
-            throw new NotImplementedException();
+            //var emailExists = await _db.Users.Select(x => x.EmailAddress).Where(email => email == model.Email).AnyAsync();
+            var user = await _db.Users.Where(x => x.EmailAddress == model.Email).FirstOrDefaultAsync();
+            if (user == null)
+            {
+                throw new Exception("This email does not exist");
+            }
+            var isPasswordCorrect = BCrypt.Net.BCrypt.Verify(model.Password, user.Password);
+            if (isPasswordCorrect)
+            {
+                return new UserViewModel
+                {
+                    Firstname = user.Firstname,
+                    Lastname = user.Lastname,
+                    Id = user.Id,
+                    JobTitle = user.JobTitle,
+                    Department = user.Department,
+                    EmailAddress = user.EmailAddress
+                };
+            }
+            else
+            {
+                throw new Exception("Email or password incorrect");
+            }
         }
 
         public async Task<UserViewModel> CreateUser(UserViewModel model)
@@ -37,7 +59,7 @@ namespace Jira.Services.Services
                     Department = model.Department,
                     EmailAddress = model.EmailAddress,
                     CreatedOn = DateTime.Now,
-                    //password encrypted
+                    Password = BCrypt.Net.BCrypt.HashPassword(model.Password)
                 };
 
                 await _db.Users.AddAsync(user);
