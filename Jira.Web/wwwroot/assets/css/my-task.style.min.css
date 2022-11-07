@@ -22020,8 +22020,8 @@ body.rtl_mode table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td
     }
 
     .btn.btn-primary {
-        background-color: var(--primary-color);
-        border-color: var(--primary-color);
+        background-color: #0052CC;
+        border-color: #0052CC;
         color: var(--white-color)
     }
 
@@ -22095,8 +22095,9 @@ body.rtl_mode table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td
     }
 
     .btn.btn-dark {
-        background-color: var(--primary-color);
-        border-color: var(--primary-color);
+        background-color: #0052CC;
+        border-color: #0052CC;
+
         color: var(--white-color)
     }
 
@@ -22334,7 +22335,7 @@ body.rtl_mode table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td
             }
 
             .nav-tabs.tab-body-header .nav-link.active {
-                background-color: var(--primary-color);
+                background-color: #0052CC;
                 color: #fff
             }
 
@@ -23366,6 +23367,9 @@ body.rtl_mode table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td
 }
 
     .sidebar.sidebar-mini .menu-list .m-link span {
+        display: none
+    }
+    .sidebar.sidebar-mini .brand-icon span {
         display: none
     }
 

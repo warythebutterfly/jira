@@ -11,10 +11,10 @@ namespace Jira.Web.Controllers
 {
     public class UserController : Controller
     {
-        private readonly IUserService _userService;
+        IUserService _userService;
         public UserController(IUserService userService)
         {
-            userService = _userService;
+            _userService = userService;
         }
         public IActionResult Index()
         {
@@ -24,17 +24,12 @@ namespace Jira.Web.Controllers
         {
             return View();
         }
-        //public IActionResult Signup()
-        //{
-        //    return View();
-        //}
         public IActionResult SignUp()
         {
             return View();
         }
-        [Route("createUser")]
         [HttpPost]
-        public async Task<DataResult> CreateUser(UserViewModel model)
+        public async Task<IActionResult> SignUp(UserViewModel model)
         {
             DataResult dataResult;
             try
@@ -58,6 +53,8 @@ namespace Jira.Web.Controllers
                         Message = "Successful",
                         Data = data
                     };
+
+                    return RedirectToAction("Login", "User");
                 }
                 catch (Exception ex)
                 {
@@ -80,7 +77,59 @@ namespace Jira.Web.Controllers
                     Data = null
                 };
             }
-            return dataResult;
+            throw new Exception();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> SignIn(LoginUserViewModel model)
+        {
+            DataResult dataResult;
+            try
+            {
+                if (!ModelState.IsValid)
+                {
+                    dataResult = new DataResult
+                    {
+                        StatusCode = "400",
+                        Message = "Bad Request",
+                        Data = false
+                    };
+                }
+
+                try
+                {
+                    object data = await _userService.AuthenticateUser(model);
+                    dataResult = new DataResult
+                    {
+                        StatusCode = "200",
+                        Message = "Successful",
+                        Data = data
+                    };
+
+                    return RedirectToAction("Dashboard", "Issue");
+                }
+                catch (Exception ex)
+                {
+                    dataResult = new DataResult
+                    {
+                        StatusCode = "404",
+                        Message = ex.Message,
+                        Data = false
+                    };
+                }
+            }
+
+            catch (Exception ex)
+            {
+                dataResult = new DataResult
+                {
+                    StatusCode = "406",
+                    Message = "Unknown Error",
+                    ExceptionErrorMessage = ex.Message,
+                    Data = null
+                };
+            }
+            throw new Exception();
         }
 
         [Route("getUsers")]
